@@ -140,4 +140,4 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = '7feb85001@smtp-brevo.com'
 EMAIL_HOST_PASSWORD = 'xsmtpsib-fd1b7f2b9a877d4f41f3adae00c66fad8102d89c746e579f995b2e57f44ad9bc-fsLZCrn9TaXp25SB'
-DEFAULT_FROM_EMAIL = 'rojoniainaandria@gmail.com'
+DEFAULT_FROM_EMAIL = 'kerenahramanantoanina@gmail.com'
