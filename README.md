@@ -114,5 +114,5 @@ POST /api/users/
 
 ## Contributeurs
 
-- **Nom** : Rojo
-- **Contact** : rojoniainaandria@gmail.com
+- **Nom** : Kerenah
+- **Contact** : kerenahramantoanina@gmail.com
